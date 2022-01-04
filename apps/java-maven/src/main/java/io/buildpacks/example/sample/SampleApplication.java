@@ -1,5 +1,8 @@
 package io.buildpacks.example.sample;
 
+import java.security.Provider;
+import java.security.Security;
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
